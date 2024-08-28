@@ -42,7 +42,8 @@ const descriptions = {
     6: "The happiest number of all, but also the most treacherous: luck can smile easily, but if you don't feel the limits, you can lose a lot.",
     7: "Guides you on the true path, helping to see the best option for resolving problems.",
     8: "Especially favors women, bringing family happiness.",
-    9: "Helps with self-improvement, gaining knowledge, and opening new horizons."
+    9: "Helps with self-improvement, gaining knowledge, and opening new horizons.",
+    10: "Represents completeness and a sense of fulfillment the bridging point between the earthly and spiritual realms."
 };
 
 function getInputValue() { 
